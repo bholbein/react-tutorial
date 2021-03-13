@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 const Home = () => {
-    // let name = 'mario';
+    // create two hooks
     const [name, setName] = useState('mario');
     const [age, setAge] = useState(25);
     

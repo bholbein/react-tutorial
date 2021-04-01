@@ -10,7 +10,6 @@ const useFetch = (url) => {
     useEffect(() => {
         fetch(url)
             .then(response => {
-                // console.log(response)
                 if(!response.ok) {
                     throw Error('Could not fetch data for that resource')
                 };

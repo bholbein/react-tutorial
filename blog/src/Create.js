@@ -8,7 +8,7 @@ const Create = () => {
     const handleSubmit = (e) => {
         // prevent from refreshing the page
         e.preventDefault();
-        const blog = {title, body, author};
+        const blog = { title, body, author };
 
         console.log(blog);
     }
@@ -31,7 +31,7 @@ const Create = () => {
                     onChange={(e) => setBody(e.target.value)}
                 ></textarea>
                 <label>Blog author</label>
-                <select 
+                <select
                     value={author}
                     onChange={(e) => setAuthor(e.target.value)}
                 >

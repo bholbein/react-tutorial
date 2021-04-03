@@ -17,30 +17,6 @@
       "body": "New Blog Content",
       "author": "Mario",
       "id": 3
-    },
-    {
-      "title": "Test",
-      "body": "TEst",
-      "author": "Mario",
-      "id": 4
-    },
-    {
-      "title": "asdasdf",
-      "body": "asdfasdf",
-      "author": "Mario",
-      "id": 5
-    },
-    {
-      "title": "Tasdfa",
-      "body": "asdfasdf",
-      "author": "Mario",
-      "id": 6
-    },
-    {
-      "title": "Test",
-      "body": "Test",
-      "author": "Mario",
-      "id": 7
     }
   ]
 }
